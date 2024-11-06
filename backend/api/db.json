@@ -1,0 +1,7 @@
+{
+    "movies": [
+      { "id": 1, "title": "Inception", "genre": "Sci-Fi", "rating": 4.8 },
+      { "id": 2, "title": "Toy Story", "genre": "Animation", "rating": 4.5 }
+    ]
+  }
+  
