@@ -1,7 +1,23 @@
 {
-    "movies": [
-      { "id": 1, "title": "Inception", "genre": "Sci-Fi", "rating": 4.8 },
-      { "id": 2, "title": "Toy Story", "genre": "Animation", "rating": 4.5 }
-    ]
-  }
-  
+  "movies": [
+    {
+      "id": 1,
+      "title": "Vingadores: Ultimato",
+      "poster_path": "/5ORgOXEElqGVuyw7DOqX5pLgz7Q.jpg"
+    },
+    {
+      "id": 2,
+      "title": "O Rei Leão",
+      "poster_path": "/tZcILe13tMDb0MPO5qvSTb5ASrj.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "0",
+      "movieId": 1,
+      "nomeFilme": "ainda estou aqui",
+      "nota": 5,
+      "descricao": "filme do ano"
+    }
+  ]
+}
